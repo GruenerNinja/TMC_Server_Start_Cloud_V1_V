@@ -1,0 +1,6 @@
+{
+  "id": "tmc-server-start-cloud-v1-v",
+  "name": "TMC Server Start Cloud",
+  "version": "1.0.0",
+  "main": "net.themodcraft.tmc_server_start_cloud_v1_v.TMC_Server_Start_Cloud_V1_V"
+}
